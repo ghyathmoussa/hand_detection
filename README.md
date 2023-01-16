@@ -1,4 +1,4 @@
-# > Hand Detection
+> Hand Detection
 Hand Detection script with pure opencv
 Start detection and giving commands based on 
 ## command to run
