@@ -9,3 +9,10 @@ run this command ```python hand_detection.py```
 
 
 ![image](https://user-images.githubusercontent.com/49807500/212912943-94963266-4323-4478-9a32-e224f2d869cb.png)
+
+#### Commands
+
+1- Start: closed hand in right RIO
+2- Next: opened hand in right RIO
+3- Stop: closed hand in left ROI
+4- Prev: opened hand in left ROI
