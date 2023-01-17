@@ -13,6 +13,9 @@ run this command ```python hand_detection.py```
 #### Commands
 
 1- Start: closed hand in right RIO
+
 2- Next: opened hand in right RIO
+
 3- Stop: closed hand in left ROI
+
 4- Prev: opened hand in left ROI
