@@ -12,9 +12,9 @@ run this command ```python hand_detection.py```
 
 #### Commands
 
-1- Start: closed hand in right RIO
+1- Start: closed hand in right ROI
 
-2- Next: opened hand in right RIO
+2- Next: opened hand in right ROI
 
 3- Stop: closed hand in left ROI
 
